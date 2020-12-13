@@ -24,9 +24,7 @@
 
 
 ## Reach Me 
-<a href="https://www.linkedin.com/in/golam-mostafa-42306817a/" target="_blank">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 
 <a href="mailto:gmshakilbhuiyan@gmail.com" target="_blank"> 
   <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> 
