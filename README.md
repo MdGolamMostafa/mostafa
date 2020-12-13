@@ -25,8 +25,8 @@
 
 ## Reach Me 
 
-
-<a href="mailto:gmshakilbhuiyan@gmail.com" target="_blank"> Mail
+Email
+<a href="mailto:gmshakilbhuiyan@gmail.com" target="_blank">
   <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> 
 
